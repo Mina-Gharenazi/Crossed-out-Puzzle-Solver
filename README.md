@@ -1,4 +1,4 @@
-- **Cross-Out Puzzle**
+**Cross-Out Puzzle**
 
 A cross-out puzzle consists of a rectangular grid of symbols. The goal is to cross out certain symbols to satisfy all of the following conditions:
 
